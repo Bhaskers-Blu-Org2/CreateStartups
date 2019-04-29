@@ -1,4 +1,8 @@
 
+# Create Startups Tour Resources
+
+This repository holds public resources for [Create](https://createstartups.io), a global startup event series produced by the [Cloud Advocacy](https://developer.microsoft.com/en-us/advocates/index.html) and [Microsoft for Startups](https://startups.microsoft.com/) teams.
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
